@@ -1,0 +1,19 @@
+﻿Build started 1/1/2014 1:24:37 PM.
+     1>Project "c:\Users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\SFML-Box2D-Template\SFML-Box2D-Template.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\jhpy1024\Downloads\Box2D_v2.3.0\Box2D /I"C:\Users\jhpy1024\Downloads\SFML-2.1-windows-vc11-32bits\SFML-2.1\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Entity.cpp Source\Game.cpp Source\main.cpp
+         Entity.cpp
+         Game.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\Release\SFML-Box2D-Template.exe" /NOLOGO /LIBPATH:"C:\Users\jhpy1024\Documents\Visual Studio 2012\Projects\SFML-Box2D-Template\SFML-Box2D-Template\Libraries" /LIBPATH:"C:\Users\jhpy1024\Downloads\SFML-2.1-windows-vc11-32bits\SFML-2.1\lib" "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" "sfml-audio.lib" Box2D.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\Release\SFML-Box2D-Template.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\Release\SFML-Box2D-Template.lib" /MACHINE:X86 /SAFESEH Release\Entity.obj
+         Release\Game.obj
+         Release\main.obj
+         Generating code
+         Finished generating code
+         SFML-Box2D-Template.vcxproj -> c:\users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\Release\SFML-Box2D-Template.exe
+     1>Done Building Project "c:\Users\jhpy1024\documents\visual studio 2012\Projects\SFML-Box2D-Template\SFML-Box2D-Template\SFML-Box2D-Template.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:36.82
